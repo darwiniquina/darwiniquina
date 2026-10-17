@@ -1,35 +1,25 @@
-# Darwin Iquiña
+# Hey, I’m Darwin (darcoded)
 
-## Full Stack Engineer | Creative Developer
+**I build automation that gives people their time back.**
 
-**Based in the Philippines**
+I’m a software engineer focused on practical automation and AI. I like finding repetitive work and making it simpler with reliable, maintainable systems.
 
-I am a Full Stack Engineer with a passion for building scalable systems and immersive web experiences. Currently working in the payroll industry, I specialize in bridging the gap between robust backend performance and engaging, high-fidelity frontend interfaces. I focus on technical excellence, user experience (UX), and modern web technologies.
+My engineering background includes backend APIs, databases, and payroll and employee systems. It shapes how I approach automation: pay attention to data, handle edge cases, and make systems easier to understand and maintain.
 
----
+## What I’m exploring
 
-### Technical Skills
+- Business and internal workflow automation
+- APIs, integrations, and moving data between tools
+- Practical AI for repetitive work
 
-- **Languages:** TypeScript, JavaScript (ES6+), HTML5, CSS3, SQL
-- **Frontend Frameworks & Libraries:** React.js, Next.js, Vue.js
-- **Styling & UI:** Tailwind CSS, CSS Modules, SASS/SCSS, Responsive Design
-- **Animation & 3D:** GSAP (GreenSock), Three.js, React Three Fiber, Framer Motion
-- **Build Tools & Environment:** Vite, Webpack, Node.js, Git, GitHub, GitLab
-- **Core Competencies:** Web Performance Optimization (Core Web Vitals), SEO, Component-Driven Development, REST APIs, System Architecture
+## A project
 
----
+- [Explainimals](https://github.com/darwiniquina/Explainimals): pixel-art animals explain ideas through animated scenes.
 
-### Professional Summary
+## Find me
 
-- **Full Stack Development:** Experienced in designing and deploying end-to-end web applications.
-- **Interactive Interfaces:** Excellent in creating dynamic, user-friendly interfaces using **React** and **GSAP** for animations.
-- **Performance:** Dedicated to writing clean, maintainable code that ensures fast load times and smooth interactions across devices.
-- **Collaboration:** Proven track record of working effectively within agile teams to deliver high-quality software solutions.
+- [Portfolio](https://darwiniquina.com)
+- [LinkedIn](https://www.linkedin.com/in/darwin-iqui%C3%B1a-15561328b/)
+- [Email](mailto:darwiniquina@gmail.com)
 
----
-
-### Contact
-
-- **Email:** [darwiniquina@gmail.com](mailto:darwiniquina@gmail.com)
-- **LinkedIn:** [darwiniquina](https://www.linkedin.com/in/darwin-iqui%C3%B1a-15561328b/)
-- **Portfolio Website:** [darwiniquina.com](https://darwiniquina.com)
+*Let’s build it, and let’s build it simple.*
